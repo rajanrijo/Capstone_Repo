@@ -1,2 +1,1 @@
-# Capstone_Repo
-## Simplilearn Project on HealthCare
+# Simplilearn Project on HealthCare
